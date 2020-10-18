@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/substrate-front-end-template/static/js/main.327c5f32.chunk.js",
-    "main.js.map": "/substrate-front-end-template/static/js/main.327c5f32.chunk.js.map",
-    "runtime-main.js": "/substrate-front-end-template/static/js/runtime-main.3980f1c6.js",
-    "runtime-main.js.map": "/substrate-front-end-template/static/js/runtime-main.3980f1c6.js.map",
-    "static/css/2.e7da6630.chunk.css": "/substrate-front-end-template/static/css/2.e7da6630.chunk.css",
-    "static/js/2.657d1dde.chunk.js": "/substrate-front-end-template/static/js/2.657d1dde.chunk.js",
-    "static/js/2.657d1dde.chunk.js.map": "/substrate-front-end-template/static/js/2.657d1dde.chunk.js.map",
-    "index.html": "/substrate-front-end-template/index.html",
-    "precache-manifest.c642eb5e2e9f9614500d0943b965aad6.js": "/substrate-front-end-template/precache-manifest.c642eb5e2e9f9614500d0943b965aad6.js",
-    "service-worker.js": "/substrate-front-end-template/service-worker.js",
-    "static/css/2.e7da6630.chunk.css.map": "/substrate-front-end-template/static/css/2.e7da6630.chunk.css.map",
-    "static/js/2.657d1dde.chunk.js.LICENSE.txt": "/substrate-front-end-template/static/js/2.657d1dde.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/substrate-front-end-template/static/media/outline-icons.ef60a4f6.woff"
+    "main.js": "/hello-world-by-polkadot/static/js/main.f1b141d0.chunk.js",
+    "main.js.map": "/hello-world-by-polkadot/static/js/main.f1b141d0.chunk.js.map",
+    "runtime-main.js": "/hello-world-by-polkadot/static/js/runtime-main.7483cd2f.js",
+    "runtime-main.js.map": "/hello-world-by-polkadot/static/js/runtime-main.7483cd2f.js.map",
+    "static/css/2.e9dd8435.chunk.css": "/hello-world-by-polkadot/static/css/2.e9dd8435.chunk.css",
+    "static/js/2.7e995eb0.chunk.js": "/hello-world-by-polkadot/static/js/2.7e995eb0.chunk.js",
+    "static/js/2.7e995eb0.chunk.js.map": "/hello-world-by-polkadot/static/js/2.7e995eb0.chunk.js.map",
+    "index.html": "/hello-world-by-polkadot/index.html",
+    "precache-manifest.9d420ff984c1234c89dfdf2c451735fb.js": "/hello-world-by-polkadot/precache-manifest.9d420ff984c1234c89dfdf2c451735fb.js",
+    "service-worker.js": "/hello-world-by-polkadot/service-worker.js",
+    "static/css/2.e9dd8435.chunk.css.map": "/hello-world-by-polkadot/static/css/2.e9dd8435.chunk.css.map",
+    "static/js/2.7e995eb0.chunk.js.LICENSE.txt": "/hello-world-by-polkadot/static/js/2.7e995eb0.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/hello-world-by-polkadot/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.3980f1c6.js",
-    "static/css/2.e7da6630.chunk.css",
-    "static/js/2.657d1dde.chunk.js",
-    "static/js/main.327c5f32.chunk.js"
+    "static/js/runtime-main.7483cd2f.js",
+    "static/css/2.e9dd8435.chunk.css",
+    "static/js/2.7e995eb0.chunk.js",
+    "static/js/main.f1b141d0.chunk.js"
   ]
 }
