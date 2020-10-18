@@ -1,0 +1,17 @@
+{
+  "name": "back-end-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "daCapricorn",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@polkadot/api": "^2.2.1",
+    "ora": "^5.1.0",
+    "prompts": "^2.3.2"
+  },
+  "devDependencies": {}
+}
